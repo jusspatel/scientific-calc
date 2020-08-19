@@ -13,9 +13,10 @@ This program uses Python3 version. Make sure to have it installed in your device
 * MPmath
 * Math
 
-![Screenshot (67)](https://user-images.githubusercontent.com/67550066/90315385-c1c07680-df38-11ea-8f01-ace28f98c4a8.png)
+Run the setup file first to install all the modules, you just have to write a small command.
+ - This will install all the modules on its own.
 
-This can be done via `pip install mpmath`command in command prompt
+This can be done via `python setup.py`command in command prompt
 
 # Functions
 ![Screenshot (68)](https://user-images.githubusercontent.com/67550066/90315454-54f9ac00-df39-11ea-891c-2b22ad410f80.png)
