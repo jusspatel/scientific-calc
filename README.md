@@ -1,4 +1,4 @@
-# Scientific Calculator
+# Scientific Calc
 This is a scientific calculator with many functions , created using Tkinter in Python By Juss Patel
 
 # Requirements 
